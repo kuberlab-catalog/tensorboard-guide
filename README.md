@@ -1,13 +1,3 @@
-# TensorFlow
+# TensorBoard Guide
 
-This is the base TensorFlow project.
-
-Conatains:
-
-- Jupyter for interactive development
-
-- Tensorbard for monitoring training process
-
-- Examples of training tasks
-
-- Examples of distributed training tasks
+TensorBoard is a suite of web applications for inspecting and understanding your TensorFlow runs and graphs.
